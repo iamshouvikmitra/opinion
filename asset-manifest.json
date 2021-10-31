@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/opinion/static/css/main.4b5837ae.chunk.css",
+    "main.js": "/opinion/static/js/main.1f29dc83.chunk.js",
+    "main.js.map": "/opinion/static/js/main.1f29dc83.chunk.js.map",
+    "runtime-main.js": "/opinion/static/js/runtime-main.18cfc3fe.js",
+    "runtime-main.js.map": "/opinion/static/js/runtime-main.18cfc3fe.js.map",
+    "static/js/2.2820a69b.chunk.js": "/opinion/static/js/2.2820a69b.chunk.js",
+    "static/js/2.2820a69b.chunk.js.map": "/opinion/static/js/2.2820a69b.chunk.js.map",
+    "static/js/3.00966788.chunk.js": "/opinion/static/js/3.00966788.chunk.js",
+    "static/js/3.00966788.chunk.js.map": "/opinion/static/js/3.00966788.chunk.js.map",
+    "index.html": "/opinion/index.html",
+    "static/css/main.4b5837ae.chunk.css.map": "/opinion/static/css/main.4b5837ae.chunk.css.map",
+    "static/js/2.2820a69b.chunk.js.LICENSE.txt": "/opinion/static/js/2.2820a69b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18cfc3fe.js",
+    "static/js/2.2820a69b.chunk.js",
+    "static/css/main.4b5837ae.chunk.css",
+    "static/js/main.1f29dc83.chunk.js"
+  ]
+}
